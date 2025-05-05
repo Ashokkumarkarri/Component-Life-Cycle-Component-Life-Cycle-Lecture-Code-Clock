@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Component-Life-Cycle-Component-Life-Cycle-Lecture-Code-Clock/static/css/main.708b3425.chunk.css",
+    "main.js": "/Component-Life-Cycle-Component-Life-Cycle-Lecture-Code-Clock/static/js/main.d1ae36e9.chunk.js",
+    "main.js.map": "/Component-Life-Cycle-Component-Life-Cycle-Lecture-Code-Clock/static/js/main.d1ae36e9.chunk.js.map",
+    "runtime-main.js": "/Component-Life-Cycle-Component-Life-Cycle-Lecture-Code-Clock/static/js/runtime-main.9736a742.js",
+    "runtime-main.js.map": "/Component-Life-Cycle-Component-Life-Cycle-Lecture-Code-Clock/static/js/runtime-main.9736a742.js.map",
+    "static/js/2.17fcfd55.chunk.js": "/Component-Life-Cycle-Component-Life-Cycle-Lecture-Code-Clock/static/js/2.17fcfd55.chunk.js",
+    "static/js/2.17fcfd55.chunk.js.map": "/Component-Life-Cycle-Component-Life-Cycle-Lecture-Code-Clock/static/js/2.17fcfd55.chunk.js.map",
+    "index.html": "/Component-Life-Cycle-Component-Life-Cycle-Lecture-Code-Clock/index.html",
+    "static/css/main.708b3425.chunk.css.map": "/Component-Life-Cycle-Component-Life-Cycle-Lecture-Code-Clock/static/css/main.708b3425.chunk.css.map",
+    "static/js/2.17fcfd55.chunk.js.LICENSE.txt": "/Component-Life-Cycle-Component-Life-Cycle-Lecture-Code-Clock/static/js/2.17fcfd55.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9736a742.js",
+    "static/js/2.17fcfd55.chunk.js",
+    "static/css/main.708b3425.chunk.css",
+    "static/js/main.d1ae36e9.chunk.js"
+  ]
+}
