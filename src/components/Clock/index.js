@@ -15,9 +15,14 @@ class Clock extends Component {
     this.timerId = setInterval(this.tick, 1000)
   }
 
-  // This method updates the state with current time every second
+  componentWillUnmount() {
+    // This lifecycle method is called right before the component is removed from the DOM
+    console.log('componentWillUnmount called') // Log when unmounting happens
+    clearInterval(this.timerId) // Clear the interval to prevent memory leaks
+  }
+
   tick = () => {
-    this.setState({date: new Date()})
+    this.setState({date: new Date()}) // This method updates the state with current time every second
   }
 
   // This method is called whenever the component re-renders (due to state or props change)
